@@ -4,4 +4,4 @@
 
 Follow the instructions as per Udacity. 
 
-If notebook file doesn't load, click https://nbviewer.jupyter.org/github/naneja/Acrobot-v1/blob/master/n-Tile-Coding.ipynb
+If notebook file doesn't load, copy url in https://nbviewer.jupyter.org
